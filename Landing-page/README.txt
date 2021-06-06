@@ -1,22 +1,14 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Landing Page Eliza
+By Léo & Léonard
 
+Il suffit juste d'ouvrir le fichier index.html
+et ça devrait marcher
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
+Ou
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
+Ouvrir le fichier avec un éditeur de texte
+Y installer Live Server
+et le lancer sur la page index.html.
 
 Credits:
 
